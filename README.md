@@ -41,7 +41,7 @@ The analysis is presented through a series of detailed charts and a final retent
 
 ## 📈 Key Findings & Visualizations
 
-**(Include 2-3 of your best insights here, along with corresponding images.)**
+
 
 * **Customer Retention (Cohort Heatmap):** Low Overall Repeat Purchase Rate: The analysis showed that over 90% of customers are single-purchase buyers, confirming a significant challenge in customer loyalty. Repeat customers were few (around 3%−5% of the total base). There is a critical need to invest in post-sale engagement and loyalty programs to convert one-time buyers into repeat customers. 
 
