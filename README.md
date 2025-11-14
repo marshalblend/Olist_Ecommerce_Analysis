@@ -28,16 +28,6 @@ The analysis is presented through a series of detailed charts and a final retent
     3.  **Advanced Analysis:** Implementing cohort analysis to calculate and visualize the customer retention matrix.
 
 
-## 🎯 Key Business Questions Addressed
-
-* **Customer Retention:** What is the monthly customer retention rate, and which cohorts perform best?
-
-* **Sales Performance:** Which product categories drive the highest revenue and order volume?
-
-* **Customer Satisfaction:** What factors (delivery time, product category) correlate with high and low review scores?
-
-* **Logistics Efficiency:** Is there a relationship between estimated vs. actual delivery time and order status by state?
-
 
 ## 📈 Key Findings & Visualizations
 
