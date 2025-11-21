@@ -1,12 +1,6 @@
 # 🇧🇷 Olist E-Commerce Data Analysis & Business Dashboard
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-406A72?style=flat&logo=seaborn&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-406A72?style=flat&logo=seaborn&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 
 
 ## 🌟 Project Overview
@@ -48,5 +42,6 @@ The analysis is presented through a series of detailed charts and a final retent
 | :--- | :--- |
 | `olist_project.ipynb` | **The primary code source** containing all cleaning, feature engineering, and visualization steps, including the Cohort Analysis. |
 | `olist_customers_dataset.csv, olist_order_items_dataset.csv, olist_order_payments_dataset.csv, olist_orders_dataset.csv, olist_products_dataset.csv, product_category_name_translation.csv` | Original raw data files provided by Olist. |
+| `product_cat_revenue.png, monthly_sales_trend.png, customer_retention_matrix.png` | **Charts/Images**: Key visualizations for revenue, sales trends, and customer behavior. |
 
 
